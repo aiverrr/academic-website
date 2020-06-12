@@ -21,9 +21,9 @@ organizations:
 bio: My main research interest is to increase the quality of education in the remote areas .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Policy Making
+- The Leadership of Education
+- Management
 
 education:
   courses:
