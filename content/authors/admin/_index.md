@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MA Candidate of Education
+role: MSc Candidate of Education
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: MA Education(leadership and policy)
-    institution: University of Brsitol
+    institution: University of Bristol
     year: 2020
   - course: B.Eng The Technology of Navigation
     institution: Wuhan University of Technology (Top 50 in China)
