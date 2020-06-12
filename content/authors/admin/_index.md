@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MA Education(leadership and policy)
+  - course: MSc Education(leadership and policy)
     institution: University of Bristol
     year: 2020
   - course: B.Eng The Technology of Navigation
