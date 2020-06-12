@@ -67,6 +67,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cui Xiangming is a student studying the leadership and policy making of education, particularly in the area of the increase of quality in the remote areas in China.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has strong emotion to find a better way to make more students to accept education equally with those in the urban cities.
+
+He has experience of leadership, management and policy making in higher education and professional associations.
+
