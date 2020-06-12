@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main research interest is to increase the quality of education in the remote areas .
 
 interests:
 - Artificial Intelligence
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA Education(leadership and policy)
+    institution: University of Brsitol
+    year: 2020
+  - course: B.Eng in The technology of Navigation
+    institution: Wuhan University of technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,10 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: '#contact'  # For a direct email link, use "aiverrr@hotmail.com".
+- icon: Weibo
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://weibo.com/2609082525/profile?rightmod=1&wvr=6&mod=personnumber
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
