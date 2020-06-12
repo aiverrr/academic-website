@@ -31,7 +31,7 @@ education:
     institution: University of Brsitol
     year: 2020
   - course: B.Eng The Technology of Navigation
-    institution: Wuhan University of Technology
+    institution: Wuhan University of Technology (Top 50 in China)
     year: 2014
 
 # Social/Academic Networking
