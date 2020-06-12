@@ -30,8 +30,8 @@ education:
   - course: MA Education(leadership and policy)
     institution: University of Brsitol
     year: 2020
-  - course: B.Eng in The technology of Navigation
-    institution: Wuhan University of technology
+  - course: B.Eng The Technology of Navigation
+    institution: Wuhan University of Technology
     year: 2014
 
 # Social/Academic Networking
