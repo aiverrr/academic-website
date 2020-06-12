@@ -18,7 +18,7 @@ subtitle = ""
   icon = "weibo"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "80%"
   
 [[feature]]
   icon = "chart-line"
