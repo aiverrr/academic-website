@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cui Xiangming
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MA Candidate of Education
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Bristol
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
